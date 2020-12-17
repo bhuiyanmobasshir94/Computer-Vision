@@ -6,3 +6,7 @@
 | Medical Open Network for AI | [link](https://monai.io/start.html) |
 | NVIDIA DEEP LEARNING INSTITUTE | [link](https://www.nvidia.com/en-us/deep-learning-ai/education/) |
 | yolov3_deepsort | [link](https://github.com/theAIGuysCode/yolov3_deepsort) |
+
+| Resource Name | Link | Domain |
+|-|-|-|
+| Information Extraction from Receipts with Graph Convolutional Networks | [link](https://nanonets.com/blog/information-extraction-graph-convolutional-networks/) | OCR |
