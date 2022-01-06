@@ -11,3 +11,4 @@
 |-|-|-|
 | Information Extraction from Receipts with Graph Convolutional Networks | [link](https://nanonets.com/blog/information-extraction-graph-convolutional-networks/) | OCR |
 | TrOCR: Transformer-based Optical Character Recognition with Pre-trained Models | [link](https://www.microsoft.com/en-us/research/publication/trocr-transformer-based-optical-character-recognition-with-pre-trained-models/) | TROCR |
+| How the Vision Transformer (ViT) works in 10 minutes: an image is worth 16x16 words | [link](https://theaisummer.com/vision-transformer/) | ViT |
