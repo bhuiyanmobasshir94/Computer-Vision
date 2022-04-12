@@ -87,8 +87,37 @@ with st.form("nid_scanner_form", clear_on_submit=True):
                 back_image_base64)))
             try:
                 response = get_nid_text(front_str_to_img, back_str_to_img)
-                st.code(response, language="json")
+                st.code(response, language="python")
             except Exception as e:
                 st.error(e)
         else:
             st.error("Please upload both images in order to proceed")
+
+# decodeit = open('hello_level.jpeg', 'wb')
+# decodeit.write(base64.b64decode((byte)))
+# decodeit.close()
+
+# import base64
+# from io import BytesIO
+
+# buffered = BytesIO()
+# image.save(buffered, format="JPEG")
+# img_str = base64.b64encode(buffered.getvalue())
+
+
+# if uploaded_file is not None:
+#     # To read file as bytes:
+#     bytes_data = uploaded_file.getvalue()
+#     st.write(bytes_data)
+
+#     # To convert to a string based IO:
+#     stringio = StringIO(uploaded_file.getvalue().decode("utf-8"))
+#     st.write(stringio)
+
+#     # To read file as string:
+#     string_data = stringio.read()
+#     st.write(string_data)
+
+#     # Can be used wherever a "file-like" object is accepted:
+#     dataframe = pd.read_csv(uploaded_file)
+#     st.write(dataframe)
