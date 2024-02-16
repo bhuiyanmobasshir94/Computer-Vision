@@ -14,3 +14,4 @@
 | How the Vision Transformer (ViT) works in 10 minutes: an image is worth 16x16 words | [link](https://theaisummer.com/vision-transformer/) | ViT |
 
 - [CS231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/index.html)
+- [Deep Generative Models](https://deepgenerativemodels.github.io/notes/)
